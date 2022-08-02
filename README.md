@@ -1,1 +1,1 @@
-# My-work
+I'm a PhD student in marine sciences at the Université de Bretagne Occidentale. I'm also a member of the LEBCO team at the DYNECO laboratory at ifremer in Brest, France. My main research interests are in the macroecology of marine benthic communities, with a particular interest in the role of ecosystem engineers in the spatial variability of communities. I uses numerical ecology tools to explore the multiple facets of biodiversity and their underlying processes across spatial scales.
